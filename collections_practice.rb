@@ -29,7 +29,8 @@ end
 
 def swap_elements(array)
   filler = array[1]
-  array[1] = 
+  array[1] = array|array.length - 1]
+  
    
    
    
